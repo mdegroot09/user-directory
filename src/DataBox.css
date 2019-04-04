@@ -70,15 +70,6 @@ hr {
   justify-self: flex-start;
   padding: 0;
   font-weight: 700; 
-
-
-
-
-
-
-
-
-  
   font-size: 15px;
 }
 
@@ -87,6 +78,17 @@ hr {
 }
 
 .edit {
+  background: #4bc6f7;
+  height: 30px;
+  width: 60px;
+  color: white;
+  border-color: transparent;
+  border-radius: 10px;
+  font-weight: 700;
+  margin: 8px;
+}
+
+#editSave {
   background: #4bc6f7;
   height: 30px;
   width: 60px;
