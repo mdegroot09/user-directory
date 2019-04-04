@@ -1,0 +1,14 @@
+.App-header {
+  background-color: #4bc6f7;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 12px;
+  color: white;
+}
+
+.home {
+  margin-left: 50px;
+  color: rgb(19, 19, 19);
+}
